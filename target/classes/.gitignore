@@ -1,5 +1,10 @@
 /META-INF/
 /DemoGit.class
 /Demo2.class
+<<<<<<< HEAD
 /Demonewbranch.class
 /Demonewbranch2.class
+=======
+/newbranchDemo1.class
+/newbranchDemo2.class
+>>>>>>> 556955443534154e7b30e5a667d81800c0f8bf8d
